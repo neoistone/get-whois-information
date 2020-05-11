@@ -31,7 +31,10 @@ $whoisservers = array(
   "bi" => "whois.nic.bi", // Burundi
   "biz" => "whois.biz",
   "bj" => "whois.nic.bj", // Benin
-  // bm - Bermuda - no whois server assigned
+  "com" => "whois.neoistone.in",
+  "in" => "whois.neoistone.in",
+  "neoistone" => "whois.neoistone.in",
+  // bm - Bermuda - no whois serv
   "bn" => "whois.bn", // Brunei Darussalam
   "bo" => "whois.nic.bo", // Bolivia
   "br" => "whois.registro.br", // Brazil
